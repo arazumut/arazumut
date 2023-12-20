@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arazumut
 - 👀 I’m interested in web software
-- 🌱 I’m currently learning javascript software language
+- 🌱 I’m currently learning javascript software language and cyber security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arazumut349@gmail.com...
 
