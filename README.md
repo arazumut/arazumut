@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @arazumut
 - 👀 I’m interested in web software
-- 🌱 I’m currently learning javascript,c++,css and c# languages and cyber security
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning javascript,c++,css and php languages and cyber security
 - 📫 How to reach me arazumut349@gmail.com...
+
+
 
 <!---
 arazumut/arazumut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
