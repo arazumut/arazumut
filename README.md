@@ -1,10 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=yellow" align="right"/> </p>
-<br>
+
+[![](https://visitcount.itsvg.in/api?id=arazumut&label=%40arazumut&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 <h1 align="center">Hi👋, I'm Kamil Umut Araz</h1>
 <h3 align="center">Full Stack Developer & Computer Programmer & Cyber Security Analyst</h3>
 
 - 📫 How to reach me **arazumut349@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
