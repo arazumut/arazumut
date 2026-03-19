@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=arazumut&label=%40arazumut&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 <h1 align="center">Hi👋, I'm Kamil Umut Araz</h1>
-<h3 align="center">Software Developer & Computer Programmer</h3>
+<h3 align="center">Software Developer & Python Tutor</h3>
 
 - 📫 How to reach me **arazumut349@gmail.com**
   
