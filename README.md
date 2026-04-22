@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://i.imgur.com/A6bWGFl.gif"/>
-  <img src="https://komarev.com/ghpvc/?username=arazumut&style=plastics&color=yellow" align="right"/>
 </p>
 
 <h1 align="center">Hi👋, I'm Kamil Umut Araz</h1>
